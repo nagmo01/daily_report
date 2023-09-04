@@ -5,7 +5,7 @@
 - git udemy ~終了
 - LearnGitBranching
 
- 
+
 ## わかったこと
 - リモートブランチの挙動などがわかった。
 
