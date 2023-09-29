@@ -1,19 +1,18 @@
-# 2023/09/28の日報
+# 2023/09/29の日報
 
 
 ## 取り組んだこと
-- dockerの復習
+- railsのdocker化
 
 ## わかったこと
-- docker compose
-- バッググラウンドの挙動
-
+- docker-compose.ymlの書き方
 
 ## 次やること
-- 課題の環境構築
+- dockerの記事を書く
+- rubyに入る
 
 ## 感じたこと
 
 ## 学習時間
-- TODAY: 6h
-- TOTAL: 215h
+- TODAY: 8h
+- TOTAL: 223h
